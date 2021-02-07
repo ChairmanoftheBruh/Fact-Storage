@@ -1,3 +1,5 @@
+[TRANS]
+
 Spiegel, Alix. “Q&amp;A: Therapists on Gender Identity Issues in Kids.” NPR, NPR, 7 May 2008, 
 www.npr.org/templates/story/story.php?storyId=90229789. 
 
@@ -9,6 +11,10 @@ journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0016885.
 Coates, Marantz  S. “Mothers of Boys with Gender Identity Disorder: a Comparison of Matched Controls.” Journal of the American Academy of Child and Adolescent Psychiatry, U.S. National Library of 
 Medicine, pubmed.ncbi.nlm.nih.gov/2016237/. 
 
+Puri, P K. “The Successful Treatment of a Gender Dysphoric Patient with Pimozide.” The Australian and New Zealand Journal of Psychiatry, 
+U.S. National Library of Medicine, June 1996, archive.is/WuQIN. 
+
+
 Hymas, Charles. “One in 50 Prisoners Identifies as Transgender amid Concerns Inmates Are Attempting to Secure Prison Perks.” The Telegraph, Telegraph Media Group, 9 July 2019, 
 www.telegraph.co.uk/news/2019/07/09/one-50-prisoners-identify-transsexual-first-figures-show-amid/.
  
@@ -19,6 +25,8 @@ www.americanprogress.org/issues/lgbtq-rights/news/2010/06/21/7980/gay-and-transg
  
 “Transgender People.” Edited by CDC Editor, Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 12 
 Nov. 2019, www.cdc.gov/hiv/group/gender/transgender/. 
+
+[GAY AND LESBS]
 
 Rose, Suzana. “Lesbian Partner Violence Fact Sheet.” Fact Sheet: Lesbian Partner Violence, National Violence Against Women Prevention Research Center University of Missouri at St. Louis, 2000, 
 mainweb-v.musc.edu/vawprevention/lesbianrx/factsheet.shtml. 
@@ -85,13 +93,7 @@ Doughtery, John. “Report - Pedophilia More Common Among 'Gays'.” Rense, 2002
 SSandfort , T G, and R de Graaf. “Same-Sex Sexual Behavior and Psychiatric Disorders: Findings from the Netherlands Mental Health 
 Survey and Incidence Study (NEMESIS).” Archives of General Psychiatry, U.S. National Library of Medicine, Jan. 2001, 
 pubmed.ncbi.nlm.nih.gov/11146762/. 
-
-Anderson, Ryan. “Transgender Ideology Is Riddled With Contradictions. Here Are the Big Ones.” The Heritage Foundation, 9 Feb. 2018, 
-www.heritage.org/gender/commentary/transgender-ideology-riddled-contradictions-here-are-the-big-ones.
  
-Puri, P K. “The Successful Treatment of a Gender Dysphoric Patient with Pimozide.” The Australian and New Zealand Journal of Psychiatry, 
-U.S. National Library of Medicine, June 1996, archive.is/WuQIN. 
-
 Xu, Yin. “Prevalence of Childhood Sexual Abuse among Lesbian, Gay, and Bisexual People: A Meta-Analysis.” Journal of Child Sexual Abuse, 
 U.S. National Library of Medicine, 2015, pubmed.ncbi.nlm.nih.gov/25942288/. 
 
@@ -111,3 +113,9 @@ Called, Tail. “Controlling for the General Factor of Paraphilia.”
 Survey Anon's Gender Blog, 13 Jan. 2021, 
 surveyanon.wordpress.com/2021/01/13/controlling-for-the-general-factor-of-paraphilia/.
  
+[MORE METAPHYSICAL ARGUEMENTS]
+
+Bogardus, T. Evaluating Arguments for the Sex/Gender Distinction. Philosophia 48, 873–892 (2020). https://doi.org/10.1007/s11406-019-00157-6
+
+Anderson, Ryan. “Transgender Ideology Is Riddled With Contradictions. Here Are the Big Ones.” The Heritage Foundation, 9 Feb. 2018, 
+www.heritage.org/gender/commentary/transgender-ideology-riddled-contradictions-here-are-the-big-ones.
